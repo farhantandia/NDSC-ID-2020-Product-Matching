@@ -1,8 +1,9 @@
 # NDSC-ID-2020-Product-Matching
 
-Siamese Network 
-Model : EfficientNetB3 Pretrained ImageNet + Prelaunch Dataset 
-Data : Shopee Advanced NDSC Product Matching with augmentation
-Optimizer : NovoGrad and LazyAdam. 
+## Siamese Network (Contrastive Loss)
+- Model : EfficientNetB3 Pretrained ImageNet + Prelaunch Dataset 
+- Data : Shopee Advanced NDSC Product Matching with augmentation
+- Optimizer : NovoGrad and LazyAdam. 
 
+## Model Plot
 <img src="https://github.com/farhantandia/NDSC-ID-2020-Product-Matching/blob/main/plot_model.jpg"/>
