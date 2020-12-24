@@ -6,4 +6,4 @@
 - Optimizer : NovoGrad and LazyAdam. 
 
 ## Model Plot
-<img src="https://github.com/farhantandia/NDSC-ID-2020-Product-Matching/blob/main/plot_model.jpg"/>
+<img src="https://github.com/farhantandia/NDSC-ID-2020-Product-Matching/blob/main/model_plot.png"/>
